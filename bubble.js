@@ -7,7 +7,7 @@ function bubbleSort(array) {
       }
     }
   }  
-  console.log(array);
+  // console.log(array);
 }
 
 
@@ -18,7 +18,7 @@ bubbleSort([451, 3, 8, 96, 26, 5, 32, 8, 211, 137, 77]);
 // ----------  =   ------------------
 
 function bubble(array) {
-  console.log(array.sort((a, b) => a- b));
+  // console.log(array.sort((a, b) => a- b));
 }
 
 bubble([451, 3, 8, 96, 26, 5, 32, 8, 211, 137, 77]);
